@@ -1,6 +1,6 @@
 # Sorting-Algorithm-Visualizer
-#### -> This is a Web Application used for visualizing classic sorting algorithms such as merge-sort, quick-sort, bubble-sort.
-#### ->A static website for visualizing different comparison based sorting algorithms.
+#### -> This is a GUI Application used for visualizing classic sorting algorithms such as merge-sort, quick-sort, bubble-sort.
+#### ->A static GUI Application for visualizing different comparison based sorting algorithms.
 #### ->In this Application there is multiple functionality Like Speed control, Array Size Control, Minimum and Maximum control.
 #### ->There is Combobox which is for select the Algorithms and also there is twoanother button which is 'Start' and 'Generate'.
 #### ->When 'Generate' button is clicked it will generate random data and store in array
